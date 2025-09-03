@@ -29,4 +29,3 @@ This project was built as part of the **UI Take-Home Challenge**.
 
 ---
 
-## 📂 Project Structure  
