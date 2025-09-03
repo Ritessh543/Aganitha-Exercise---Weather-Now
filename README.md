@@ -29,3 +29,5 @@ This project was built as part of the **UI Take-Home Challenge**.
 
 ---
 
+The app will run on 👉   https://rgsnc5-5173.csb.app/
+
